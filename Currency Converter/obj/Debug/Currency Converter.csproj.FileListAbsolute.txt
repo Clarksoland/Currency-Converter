@@ -1,0 +1,14 @@
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csprojAssemblyReference.cache
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\xande\OneDrive\Documents\Ron Dearing UTC [Home Files]\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csprojAssemblyReference.cache
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\Heltalon\Documents\RDUTC-Home-Files\2021\[4] Software Design and Development\[4] Currency Converter\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
